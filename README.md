@@ -1,5 +1,17 @@
+# This is an automated README.md generator!
 
-# Read me generator
+To use:
+
+1. Clone repo 
+2. cd /cloned/repo
+3. npm i
+4. node index.js
+5. Answer the questions through the CLI
+
+
+-------
+
+# Example of Readme generator
 
 ## Description
 
